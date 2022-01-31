@@ -9,4 +9,9 @@ A Simple Wallpaper App 📱 made using Flutter which fetches data from Pexels AP
 
 [![Wallpaper App](https://img.shields.io/badge/WallpaperApp-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/hTTwJnDJFGnggMKQas0TcH/Wallpaper-Hub?node-id=14%3A215)
 
+Home Screen| Full Screen
+--- | --- 
+![](https://user-images.githubusercontent.com/83513508/138772381-9da62fc0-f74a-46eb-8013-1cd49b0ba84e.png) | ![](https://user-images.githubusercontent.com/83513508/138772380-00ae2c83-b870-40f5-b1a3-44f8099c6d88.png) 
+
+
 
