@@ -7,6 +7,6 @@ A Simple Wallpaper App 📱 made using Flutter which fetches data from Pexels AP
 
 ***Click to View Note app Design from below 👇***
 
-[![Wallpaper App](https://img.shields.io/badge/NoteApp-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/zqTjc9PMDp7IU21WsjXTNz/Note-App?node-id=0%3A1)
+[![Wallpaper App](https://img.shields.io/badge/WallpaperApp-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/hTTwJnDJFGnggMKQas0TcH/Wallpaper-Hub?node-id=14%3A215)
 
 
