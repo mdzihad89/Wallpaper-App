@@ -11,7 +11,7 @@ A Simple Wallpaper App 📱 made using Flutter which fetches data from Pexels AP
 
 Home Screen| Full Screen
 --- | --- 
-![](https://user-images.githubusercontent.com/83513508/151865293-986944ea-64c1-4842-9e6b-3d9a47f0fe77.png) | ![](https://user-images.githubusercontent.com/83513508/151865590-8dc4e2ef-e81e-4c1f-81f6-9519f858ba84.png) 
+![](https://user-images.githubusercontent.com/83513508/151865707-d0782e55-6fff-4a71-83cf-fc740d68f2cf.png) | ![](https://user-images.githubusercontent.com/83513508/151865590-8dc4e2ef-e81e-4c1f-81f6-9519f858ba84.png) 
 
 
 
